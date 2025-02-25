@@ -1,0 +1,118 @@
+/* Base styles */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+.section {
+}
+
+/* Header */
+
+/* Hero */
+.hero {
+}
+.hero-title {
+}
+.hero-list {
+}
+.hero-list-item {
+}
+.hero-link {
+}
+
+/* Benefits */
+
+.benefits {
+}
+.benefits-list {
+}
+.benefits-list-item {
+}
+.benefits-list-subtitle {
+}
+.benefits-list-desc {
+}
+
+/* Ingridients */
+.ingridients {
+}
+.ingridients-title {
+}
+.ingridients-list {
+}
+.ingridients-list-item {
+}
+.ingridients-list-subtitle {
+}
+.ingridients-list-img {
+}
+
+/* Made */
+.made {
+}
+.made-title {
+}
+.made-img {
+}
+.made-subtitle {
+}
+.made-list {
+}
+.made-list-item {
+}
+
+/* Products */
+.products {
+}
+.products-title {
+}
+.products-list {
+}
+.products-list-item {
+}
+.products-list-img {
+}
+.products-list-subtitle {
+}
+.products-list-type {
+}
+.products-list-btn {
+}
+
+/* Topsellers */
+.topsellers {
+}
+.topsellers-title {
+}
+.topsellers-list {
+}
+.topsellers-list-item {
+}
+.topsellers-list-img {
+}
+.topsellers-list-subtitle {
+}
+
+/* Reviews */
+.reviews {
+}
+.reviews-title {
+}
+.reviews-list {
+}
+.reviews-list-item {
+}
+.reviews-list-img {
+}
+.reviews-list-author {
+}
+.reviews-list-text {
+}
+.reviews-btn {
+}
+
+/* Footer */
