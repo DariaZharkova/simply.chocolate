@@ -2,15 +2,46 @@
 body {
   font-family: 'Montserrat', sans-serif;
 }
-a {
+.link {
   color: currentColor;
   text-decoration: none;
+}
+.list {
+  list-style: none;
 }
 
 .section {
 }
 
 /* Header */
+.header {
+}
+.header-nav {
+}
+.nav {
+}
+.nav-list {
+}
+.nav-list-item {
+}
+.nav-list-link {
+}
+.header-socials {
+}
+.header-socials-item {
+}
+.header-socials-link {
+}
+.header-socials-icon {
+}
+
+/* Logo */
+.logo {
+}
+.logo-accent {
+}
+.logo-icon {
+}
 
 /* Hero */
 .hero {
